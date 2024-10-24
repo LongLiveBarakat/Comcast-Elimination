@@ -49,6 +49,7 @@ function App() {
           <img className="shokry-image" src={shokry} alt="" />
           <FontAwesomeIcon className="x" icon={faX} />
           <h1>Shokry</h1>
+          <p>Eliminated</p>
         </div>
         <div className="bembem box">
           <img src={bembem} alt="" />
@@ -58,16 +59,19 @@ function App() {
           <img className="anas-image" src={anas} alt="" />
           <FontAwesomeIcon className="x" icon={faX} />
           <h1>Anas</h1>
+          <p>Eliminated</p>
         </div>
         <div className="gaber box">
           <img className="gaber-image" src={gaber} alt="" />
           <FontAwesomeIcon className="x" icon={faX} />
           <h1>Gaber</h1>
+          <p>Eliminated</p>
         </div>
         <div className="hofy box">
           <img className="hofy-image" src={hofy} alt="" />
           <FontAwesomeIcon className="x" icon={faX} />
           <h1>Hofy</h1>
+          <p>Eliminated</p>
         </div>
         <div className="engy box">
           <img src={engy} alt="" />
@@ -77,6 +81,7 @@ function App() {
           <img className="saadany-image" src={saadany} alt="" />
           <FontAwesomeIcon className="x" icon={faX} />
           <h1>Saadany</h1>
+          <p>Eliminated</p>
         </div>
         <div className="som3a box">
           <img src={som3a} alt="" />
@@ -114,6 +119,7 @@ function App() {
           <img className="bolbol-image" src={bolbol} alt="" />
           <FontAwesomeIcon className="x" icon={faX} />
           <h1>Belbesy</h1>
+          <p>Eliminated</p>
         </div>
       </div>
     </div>
